@@ -10,7 +10,7 @@ A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, i
 
 ## Download
 
-Get the latest zip from **[Releases](../../releases/latest)**.
+Get the latest zip from **[Releases](../../releases/latest)**. Then [get your free Cesium ion token](#get-the-photo-scenery-a-free-cesium-ion-token) for the photo scenery.
 
 ## Install and run
 
@@ -23,13 +23,18 @@ Don't start it from an ordinary shortcut: on some Windows 11 builds that hangs a
 
 **Keyboard:** arrows = bar, W/S = throttle, Z/X = steer, B = brake, Tab = menu, F1 = controls. Joysticks, throttles and VR controllers can be bound from the menu.
 
-## Photoreal scenery (optional, free)
+## Get the photo scenery: a free Cesium ion token
 
-Without a token the sim uses its built-in scenery. For aerial photos on the LIDAR terrain:
+> [!IMPORTANT]
+> **For the real aerial-photo scenery you need your own free Cesium ion access token.** It takes about two minutes, and you only do it once.
+> Without one, Fly:Over still runs but uses its basic built-in scenery.
 
-1. Make a free account at [ion.cesium.com](https://ion.cesium.com).
-2. Open **Access Tokens** and copy the **Default** token.
-3. In the sim choose **Menu → Paste Cesium ion token**.
+1. **Create a free account** at **[ion.cesium.com](https://ion.cesium.com)** (*Sign up*; the free Community plan is all you need).
+2. **Open the Access Tokens page.** Once signed in, click **Access Tokens** in the menu bar along the top of the page, or go straight to **[ion.cesium.com/tokens](https://ion.cesium.com/tokens)**.
+3. **Copy the Default token.** In the list on the left, click **Default Token**. Its details open on the right: the token is the long string of letters starting **`eyJ`**. Click **Copy** next to it (or select all of it and press Ctrl+C).
+4. **Paste it into Fly:Over.** With the token still on this PC's clipboard, start the sim, open the menu (**Tab** on the keyboard; in VR, the left controller's menu button or **B** on the right) and choose **Paste Cesium ion token**. The sim reads the token from the clipboard; you'll see *"Cesium ion token saved"* and the menu item changes to **set**.
+
+The token is saved on your PC, so you won't need to paste it again. It's linked to your own account, so don't share it. If you do share it by accident, click **Regenerate** on the same page to cancel it and get a new one.
 
 ## Flying with an instructor
 
