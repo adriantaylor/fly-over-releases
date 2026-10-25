@@ -10,7 +10,7 @@ A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, i
 
 ## Download
 
-Get the latest zip from **[Releases](../../releases/latest)**. A short promo video is attached to each release.
+Get the latest zip from **[Releases](../../releases/latest)**.
 
 ## Install and run
 
