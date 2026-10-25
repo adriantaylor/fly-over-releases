@@ -10,7 +10,8 @@ A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, i
 - **Real-world terrain**: Environment Agency LIDAR terrain, trees and hedges, with optional photoreal scenery streamed as you fly.
 - **Instructor in the back seat**: multi-crew over a LAN or the internet, each on their own PC. The instructor can set up the exercise, fail the engine and take control at any time.
 - **Your weather**: wind, gusts, turbulence, thermals, cloud cover and base, time of day.
-- Airfields: Over Farm (Gloucestershire), Shobdon and Plaistows.
+- **See yourself in SkyDemon**: Fly:Over sends its position as GDL90 over Wi-Fi, like an ADS-B receiver, so SkyDemon (or ForeFlight) on a tablet follows your flight.
+- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell and Darley Moor.
 
 ## Download
 
@@ -39,6 +40,16 @@ Don't start it from an ordinary shortcut: on some Windows 11 builds that hangs a
 4. **Paste it into Fly:Over.** With the token still on this PC's clipboard, start the sim, open the menu (**Tab** on the keyboard; in VR, the left controller's menu button or **B** on the right) and choose **Paste Cesium ion token**. The sim reads the token from the clipboard; you'll see *"Cesium ion token saved"* and the menu item changes to **set**.
 
 The token is saved on your PC, so you won't need to paste it again. It's linked to your own account, so don't share it. If you do share it by accident, click **Regenerate** on the same page to cancel it and get a new one.
+
+## SkyDemon / ForeFlight (GDL90)
+
+Fly:Over can send the aircraft's position, height, speed and track the way an ADS-B receiver such as a SkyEcho or Stratux does (GDL90 on UDP port 4000), so your moving map on a phone or tablet follows the sim.
+
+1. Put the tablet on the **same Wi-Fi network** as the PC.
+2. In Fly:Over open the menu and turn **GDL90 out** on. It broadcasts on every network the PC is on; the menu item shows where.
+3. In SkyDemon, connect a **GDL90** device (the option for ADS-B receivers such as SkyEcho or Stratux). ForeFlight picks it up on its own and lists it as *Fly:Over*.
+
+If Windows asks whether FlyOver may use the network, allow it on private networks. If nothing arrives (some VPNs and guest networks block broadcasts), copy the tablet's IP address to the clipboard and select **GDL90 address** in the menu to send straight to it. Your registration (Menu → Registration) is used as the call sign.
 
 ## Flying with an instructor
 
