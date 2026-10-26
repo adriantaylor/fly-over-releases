@@ -63,7 +63,7 @@ Fly:Over is free to download and share **non-commercially**. The built-in imager
 - Buildings, power lines, woods: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, ODbL.
 - Built-in satellite imagery: Sentinel-2 cloudless 2024 by EOX IT Services GmbH (contains modified Copernicus Sentinel data 2024), [CC BY-NC-SA 4.0](https://s2maps.eu).
 - Distant terrain: Terrarium tiles, AWS Open Data / Mapzen.
-- Streamed photo scenery (not redistributed): Microsoft Bing Maps via Cesium ion; Google Photorealistic 3D Tiles, map data © Google. Cesium for Unity, Apache 2.0.
+- Streamed photo scenery (not redistributed): Google Maps satellite imagery and Google Photorealistic 3D Tiles via Cesium ion, map data © Google; Microsoft Bing Maps via Cesium ion. Cesium for Unity, Apache 2.0.
 - Made with Unity.
 
 The full list is in `CREDITS.txt` inside the zip.
