@@ -10,8 +10,9 @@ A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, i
 - **Real-world terrain**: Environment Agency LIDAR terrain, trees and hedges, with optional photoreal scenery streamed as you fly.
 - **Instructor in the back seat**: multi-crew over a LAN or the internet, each on their own PC. The instructor can set up the exercise, fail the engine and take control at any time.
 - **Your weather**: wind, gusts, turbulence, thermals, cloud cover and base, time of day.
+- **Maps and route planning**: choose airfields and plan routes on a chart of GB with its airspace, then fly them with a moving map on your knees.
 - **See yourself in SkyDemon**: Fly:Over sends its position as GDL90 over Wi-Fi, like an ADS-B receiver, so SkyDemon (or ForeFlight) on a tablet follows your flight.
-- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell, Darley Moor and Kemble built in, plus hundreds of grass strips and airfields in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West, South East and East of England, the Midlands, and South and North Wales so far, with the North of England and Scotland on the way.
+- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell, Darley Moor and Kemble built in, plus hundreds of grass strips and airfields in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West, South East and East of England, the Midlands, the North of England, and South and North Wales so far, with Scotland on the way.
 
 ## Download
 
@@ -62,6 +63,7 @@ Fly:Over is free to download and share **non-commercially**. The built-in imager
 - Terrain, trees and building heights: Environment Agency LIDAR Composite 2022, © Environment Agency, [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 - Buildings, power lines, woods: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, ODbL.
 - Built-in satellite imagery: Sentinel-2 cloudless 2024 by EOX IT Services GmbH (contains modified Copernicus Sentinel data 2024), [CC BY-NC-SA 4.0](https://s2maps.eu).
+- Map: contains OS data © Crown copyright and database right 2026 (OS Open Zoomstack, OS Terrain 50), Open Government Licence. Airspace from the UK AIP via [YAIXM](https://github.com/ahsparrow/airspace) (CC0).
 - Distant terrain: Terrarium tiles, AWS Open Data / Mapzen.
 - Streamed photo scenery (not redistributed): Google Maps satellite imagery and Google Photorealistic 3D Tiles via Cesium ion, map data © Google; Microsoft Bing Maps via Cesium ion. Cesium for Unity, Apache 2.0.
 - Made with Unity.
