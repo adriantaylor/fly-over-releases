@@ -11,7 +11,7 @@ A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, i
 - **Instructor in the back seat**: multi-crew over a LAN or the internet, each on their own PC. The instructor can set up the exercise, fail the engine and take control at any time.
 - **Your weather**: wind, gusts, turbulence, thermals, cloud cover and base, time of day.
 - **See yourself in SkyDemon**: Fly:Over sends its position as GDL90 over Wi-Fi, like an ADS-B receiver, so SkyDemon (or ForeFlight) on a tablet follows your flight.
-- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell, Darley Moor and Kemble built in, plus hundreds of grass strips and airfields in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West England, the Midlands, South Wales and North Wales so far, with the rest of England and Scotland on the way.
+- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell, Darley Moor and Kemble built in, plus hundreds of grass strips and airfields in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West, South East and East of England, the Midlands, and South and North Wales so far, with the North of England and Scotland on the way.
 
 ## Download
 
