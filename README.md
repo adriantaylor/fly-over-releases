@@ -2,16 +2,16 @@
 
 A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, in the cockpit, over real-world scenery.
 
-[![Fly:Over video (YouTube)](https://img.youtube.com/vi/-i0ezico16w/maxresdefault.jpg)](https://youtu.be/-i0ezico16w)
+[![Fly:Over video (YouTube)](https://img.youtube.com/vi/nAg1Ct-dp8A/maxresdefault.jpg)](https://youtu.be/nAg1Ct-dp8A)
 
-▶ **[Watch the video on YouTube](https://youtu.be/-i0ezico16w)**
+▶ **[Watch the video on YouTube](https://youtu.be/nAg1Ct-dp8A)**
 
 - **Flight model** developed to be as close to the Quantum as possible, based on data and experience.
 - **Real-world terrain**: Environment Agency LIDAR terrain, trees and hedges, with optional photoreal scenery streamed as you fly.
 - **Instructor in the back seat**: multi-crew over a LAN or the internet, each on their own PC. The instructor can set up the exercise, fail the engine and take control at any time.
 - **Your weather**: wind, gusts, turbulence, thermals, cloud cover and base, time of day.
 - **See yourself in SkyDemon**: Fly:Over sends its position as GDL90 over Wi-Fi, like an ADS-B receiver, so SkyDemon (or ForeFlight) on a tablet follows your flight.
-- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell and Darley Moor.
+- Airfields: Over Farm (Gloucestershire), Shobdon, Plaistows, Sywell, Darley Moor and Kemble built in, plus hundreds of grass strips and airfields in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West England, the Midlands, South Wales and North Wales so far, with the rest of England and Scotland on the way.
 
 ## Download
 
