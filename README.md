@@ -7,7 +7,7 @@ A **free Pegasus Quantum 15 flexwing simulator for VR**. Train at home, in the c
 ▶ **[Watch the video on YouTube](https://youtu.be/kZpX0uHBisA)**
 
 - **Flight model** developed to be as close to the Quantum as possible, based on data and experience. Choose the Rotax 582 or 912.
-- **A cockpit scanned from a real Quantum**: the owner's yellow 582, LIDAR-scanned, with working gauges and a windscreen as worn as you like (pristine to heavy). The other colours and the 912 use a drawn cockpit.
+- **A cockpit scanned from a real Quantum**: a yellow 582, LIDAR-scanned, with working gauges and a windscreen as worn as you like (pristine to heavy). The other colours and the 912 use a drawn cockpit.
 - **Real-world scenery**: LIDAR and OS Terrain 50 terrain for all of Great Britain, with trees and hedges. Photo scenery streams as you fly: Google 3D, Google or Bing aerial photos on the LIDAR terrain, or a hybrid.
 - **Hundreds of airfields**: Over Farm (Gloucestershire) is built in; hundreds of grass strips and airfields, including Shobdon, Plaistows, Sywell, Darley Moor and Kemble, come in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West, South East and East of England, the Midlands, the North of England, South and North Wales, and Southern and Northern Scotland.
 - **Multiplayer**, each on their own PC, over a LAN or the internet. **Fly together**, a trike each and seeing each other's. Or a **lesson**, one trike and two seats: the instructor can set up the exercise, cut the engine and take control at any time.
