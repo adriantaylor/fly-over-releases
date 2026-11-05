@@ -2,9 +2,9 @@
 
 A **Pegasus Quantum 15 / Rotax 582 flexwing simulator for VR**. Train at home, in the cockpit, over real-world scenery.
 
-[![Fly:Over video (YouTube)](https://img.youtube.com/vi/nAg1Ct-dp8A/maxresdefault.jpg)](https://youtu.be/nAg1Ct-dp8A)
+[![Fly:Over video (YouTube)](https://img.youtube.com/vi/kZpX0uHBisA/maxresdefault.jpg)](https://youtu.be/kZpX0uHBisA)
 
-▶ **[Watch the video on YouTube](https://youtu.be/nAg1Ct-dp8A)**
+▶ **[Watch the video on YouTube](https://youtu.be/kZpX0uHBisA)**
 
 - **Flight model** developed to be as close to the Quantum as possible, based on data and experience.
 - **Real-world terrain**: Environment Agency LIDAR terrain, trees and hedges, with optional photoreal scenery streamed as you fly.
