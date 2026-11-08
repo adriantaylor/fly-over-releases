@@ -11,8 +11,8 @@ A **free Pegasus Quantum 15 flexwing simulator for VR**. Train at home, in the c
 - **Real-world scenery**: LIDAR and OS Terrain 50 terrain for all of Great Britain, with trees and hedges. Photo scenery streams as you fly: Google 3D, Google or Bing aerial photos on the LIDAR terrain, or a hybrid.
 - **Hundreds of airfields**: Over Farm (Gloucestershire) is built in; hundreds of grass strips and airfields, including Shobdon, Plaistows, Sywell, Darley Moor and Kemble, come in free regional scenery packs you download in the sim (Menu → Scenery → Scenery packs): South West, South East and East of England, the Midlands, the North of England, South and North Wales, and Southern and Northern Scotland.
 - **Multiplayer**, each on their own PC, over a LAN or the internet. **Fly together**, a trike each and seeing each other's. Or a **lesson**, one trike and two seats: the instructor can set up the exercise, cut the engine and take control at any time.
-- **Real weather**: live OverWX forecasts (up to a week ahead) or the nearest METAR set the wind, gusts, cloud, QNH, temperature, thermals and the wind gradient. Or set your own.
-- **The real sun**: the sun for any date, time and place, seasons included, with oranges, reds and purples at sunrise and sunset. Volumetric clouds, shaped by the wind at their height.
+- **Real weather all around you**: forecasts for 150 km in every direction, so the sky in each direction is the weather over there, and the wind, cloud and QNH change as you fly. Or the nearest METAR, or set your own.
+- **Skies and clouds**: a physically based sky and haze, and 3D clouds you can fly under, through and over: cumulus, stratocumulus, stratus, altostratus, altocumulus and cirrus, rain showers and scud, all modelled from the forecast. The real sun for any date, time and place, with proper sunrises and sunsets.
 - **Maps and route planning**: choose airfields and plan routes on a zoomable chart of GB with its airspace, then fly them with a kneeboard map at a true 1:250,000. For the sim only: not for real-world navigation.
 - **See yourself in SkyDemon**: Fly:Over sends its position as GDL90 over Wi-Fi, like an ADS-B receiver, so SkyDemon (or ForeFlight) on a tablet follows your flight.
 
@@ -80,6 +80,7 @@ Fly:Over is free to download and share **non-commercially**. The built-in imager
 - Buildings, power lines, woods: © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, ODbL.
 - Built-in satellite imagery: Sentinel-2 cloudless 2024 by EOX IT Services GmbH (contains modified Copernicus Sentinel data 2024), [CC BY-NC-SA 4.0](https://s2maps.eu).
 - Map: contains OS data © Crown copyright and database right 2026 (OS Open Zoomstack, OS Terrain 50), Open Government Licence. Airspace from the UK AIP via [YAIXM](https://github.com/ahsparrow/airspace) (CC0).
+- Real weather: weather data by [Open-Meteo.com](https://open-meteo.com) (CC BY 4.0), from the ECMWF, DWD ICON, UK Met Office and NOAA GFS models; forecasts and model choice also from OverWX; METARs from aviationweather.gov.
 - Distant terrain: Terrarium tiles, AWS Open Data / Mapzen.
 - Streamed photo scenery (not redistributed): Google Maps satellite imagery and Google Photorealistic 3D Tiles via Cesium ion, map data © Google; Microsoft Bing Maps via Cesium ion. Cesium for Unity, Apache 2.0.
 - Made with Unity.
