@@ -1,5 +1,21 @@
 # Fly:Over
 
+## The Human Bit
+
+I was frustrated at the poor flight models of flexwings/trikes in MSFS and X-Plane, even the paid ones. They looked good, but didn't behave like I expected. I spent a bit of time trying to tweak the flight models, using AI to drive it, but didn't get anywhere. 
+
+So I got Claude/Opus to make my own. Aside from this small section, everything is AI produced. Code, video, readme, release notes etc. 
+
+In real life I own a Quantum/582. So this is primarily based on that - the cockpit scans are from that (thanks, JL!), and the "human tweaked" flight characteristics are from that, though it must be said that I don't yet have a licence, so I've not experienced that wide a variety of conditions. 
+
+There are (currently) also a 912 Quantum - purely based off performance data - and a Nynja, again based off performance data and some photos, no cockpit scan (yet). These should be considered Work In Progress... or "just a bit of fun".
+
+I'm happy to get feedback, questions or suggestions - from the repo name, my name should be obvious, just use surname.firstname at google's email service to get in touch. 
+
+Why Fly:Over? Because I'm based at Over Farm near Gloucester, and Flyover seemed like a good pun, briefly.
+
+---
+
 A **free Pegasus Quantum 15 flexwing simulator for VR**. Train at home, in the cockpit, over real-world scenery.
 
 [![Fly:Over video (YouTube)](https://img.youtube.com/vi/kZpX0uHBisA/maxresdefault.jpg)](https://youtu.be/kZpX0uHBisA)
