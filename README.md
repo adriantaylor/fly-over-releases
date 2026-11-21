@@ -18,9 +18,9 @@ Why Fly:Over? Because I'm based at Over Farm near Gloucester, and Flyover seemed
 
 A **free Pegasus Quantum 15 flexwing simulator for VR**. Train at home, in the cockpit, over real-world scenery.
 
-[![Fly:Over video (YouTube)](https://img.youtube.com/vi/kZpX0uHBisA/maxresdefault.jpg)](https://youtu.be/kZpX0uHBisA)
+[![Fly:Over video (YouTube)](https://img.youtube.com/vi/aVK_9z0bpgM/maxresdefault.jpg)](https://youtu.be/aVK_9z0bpgM)
 
-▶ **[Watch the video on YouTube](https://youtu.be/kZpX0uHBisA)**
+▶ **[Watch the video on YouTube](https://youtu.be/aVK_9z0bpgM)**
 
 - **Flight model** developed to be as close to the Quantum as possible, based on data and experience. Choose the Rotax 582 or 912.
 - **A cockpit scanned from a real Quantum**: a yellow 582, LIDAR-scanned, with working gauges and a windscreen as worn as you like (pristine to heavy). The other colours and the 912 use a drawn cockpit.
